@@ -1,0 +1,7 @@
+Problem:
+Design a simple To-Do List Manager in the console.
+Support the following commands:
+    ADD <task>
+    REMOVE <task>
+    SHOW (displays all tasks)
+    EXIT
